@@ -761,8 +761,7 @@ ul.social-icons.two {
     padding: 19px 10px;
     margin-bottom: 24px;
     outline: none;
-    border: 2px solid #00a78e;
-}
+    border: 2px solid #00a78e;head}
 .mail_right textarea {
 	height:200px; 
 	resize:none;	
@@ -814,7 +813,7 @@ span.border.two:after {
 }
 /*-- footer --*/
 .footer {
-    background: url(../images/bg4.jpg) no-repeat center top;
+    background: url(../images/bghead.jpg) no-repeat center top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
