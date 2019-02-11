@@ -775,8 +775,7 @@ ul.social-icons.two {
     padding: 13px 40px;
 }
 .mail_right input[type="submit"]:hover{
- background: #00a78e;
-	    transition: 0.5s all ease;
+ background: #00a78e;	    transition: 0.5s all ease;
     -webkit-transition: 0.5s all ease;
     -moz-transition: 0.5s all ease;
     -o-transition: 0.5s all ease;
@@ -813,7 +812,7 @@ span.border.two:after {
 }
 /*-- footer --*/
 .footer {
-    background: url(../images/bghead.jpg) no-repeat center top;
+    background: url(../images/download.jfif) no-repeat center top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
